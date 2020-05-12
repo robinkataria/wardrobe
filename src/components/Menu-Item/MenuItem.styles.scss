@@ -8,9 +8,10 @@
     // border: 1px solid black;
     margin: 0 7.5px 15px;
     overflow: hidden;
+    border-radius: 3px;
 
     &.large {
-        height: 380px;
+        height: 340px;
     }
 
     &:first-child {
